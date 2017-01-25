@@ -1,3 +1,5 @@
+###`ESTA BIBLIOTECA ESTÁ DEPRECIADA. Por favor, utilize a nova versão disponível em` https://github.com/pagseguro/pagseguro-java-sdk
+
 Biblioteca de integração PagSeguro em Java
 ==========================================
 ---
